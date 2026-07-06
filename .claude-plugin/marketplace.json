@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "databricks-marketplace",
+  "description": "Plugin marketplace for Databricks Claude Code plugins",
+  "owner": {
+    "name": "stromy-org"
+  },
+  "plugins": [
+    {
+      "name": "databricks",
+      "description": "Claude Code plugin for Databricks branded deliverables — stromy-format rendering + asset-editor/asset-feedback over the Databricks producer brand overlay (Zac showcase)",
+      "version": "0.1.0",
+      "author": {
+        "name": "William Masquelier"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/stromy-org/databricks-plugin.git"
+      }
+    }
+  ]
+}

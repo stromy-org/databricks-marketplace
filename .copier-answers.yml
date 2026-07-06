@@ -1,0 +1,11 @@
+# Changes here will be overwritten by Copier; DO NOT edit manually.
+_commit: c319931
+_src_path: scaffolds/claude-marketplace-template
+author_name: William Masquelier
+client_name: Databricks
+client_slug: databricks
+github_org: stromy-org
+marketplace_name: Databricks Plugin Marketplace
+marketplace_slug: databricks-marketplace
+plugin_description: Claude Code plugin for Databricks branded deliverables
+plugin_slug: databricks-plugin
