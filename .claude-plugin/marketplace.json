@@ -8,8 +8,8 @@
   "plugins": [
     {
       "name": "databricks",
-      "description": "Claude Code plugin for Databricks branded deliverables \u2014 stromy-format rendering + asset-editor/asset-feedback over the Databricks producer brand overlay (Zac showcase)",
-      "version": "0.2.0",
+      "description": "Claude Code plugin for Databricks branded deliverables — stromy-format rendering + asset-editor/asset-feedback over the Databricks producer brand overlay (Zac showcase)",
+      "version": "0.2.1",
       "author": {
         "name": "William Masquelier"
       },
