@@ -1,0 +1,19 @@
+{
+  "name": "databricks-marketplace",
+  "interface": {
+    "displayName": "Databricks"
+  },
+  "plugins": [
+    {
+      "name": "databricks",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/stromy-org/databricks-plugin.git"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      }
+    }
+  ]
+}
