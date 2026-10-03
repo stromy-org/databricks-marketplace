@@ -9,7 +9,7 @@
     {
       "name": "databricks",
       "description": "Plugin for Databricks branded deliverables — stromy-format rendering + asset-editor/asset-feedback over the Databricks producer brand overlay (Zac showcase)",
-      "version": "0.2.29",
+      "version": "0.2.30",
       "author": {
         "name": "William Masquelier"
       },
